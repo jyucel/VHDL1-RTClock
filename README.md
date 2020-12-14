@@ -5,6 +5,6 @@ RealTimeClock written in VHDL
 You can adjust time
 
 Requirements
-Clock - I used 50MHz. If you have another clock you need to adjust binary value to match
+Clock - I used 50MHz. If you have another clock you need to adjust clock_div signal in binary value to match
 2 SWitches. One for reset and One for Time-adjustment mode
 2 keys. Just for time adjustment. One key for choosing between hours and minutes. One key for increasing values
